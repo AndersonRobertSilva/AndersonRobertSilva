@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Anderson Robert da Silva
+# 👨🏽‍💻 Anderson Robert da Silva
 
 **`Data Analitycs`**
 Me chamo Anderson Robert, tenho 36 anos e sou natural de São Paulo. Atualmente estou estudando Bigdata e Inteligencia Artifical na universidade São Justa Tadeu e sou apaixonado por tecnologia. <br> <br>
